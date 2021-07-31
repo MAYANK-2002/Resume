@@ -1,0 +1,54 @@
+{
+	"basics": {
+		"name": "Mayank Meemrot",
+		"label": "Student",
+		"picture": "https://github.com/bhavyameena/Resume/blob/main/WhatsApp%20Image%202021-07-31%20at%201.13.26%20PM.jpeg",
+		"email": "2019kucp1097@iiitkota.ac.in",
+		"phone": "7891772640",
+		"summary": "A B-Tech, Computer Science student at Indian Institute of Information technology, Kota(India).",
+		"location": {
+			"address": "Nihalpura Bandikui,dausa rajasthan ",
+			"postalCode": "303315",
+			"city": "Bandikui",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "MAYANK-2002",
+				"url": "https://github.com/MAYANK-2002"
+			},
+			{
+				"network": "linkedin",
+				"username": "Mayank Meemrot",
+				"url": "https://www.linkedin.com/in/mayank-meemrot-a3ab2b197/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Mayank_meemrot",
+				"url": "https://www.instagram.com/mayank_meemrot/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08",
+		"endDate": "2023",
+		"gpa": "6.45 (till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "C/C++", "Python(beginner)", "MySQL"]
+	}],
+	"interests": [{
+			"name": "Sports",
+			"keywords": ["cricket"]
+		}
+	]
+}
